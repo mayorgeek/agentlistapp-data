@@ -33,6 +33,17 @@
       "whatsapp": "+2348099999999",
       "email": null,
       "bio": "Experienced Lagos property consultant."
+    },
+    {
+      "id": "4",
+      "slug": "ebenezer-kayode",
+      "name": "Ebenezer Kayode",
+      "company": "Noblemen",
+      "city": "Lagos",
+      "phone": null,
+      "whatsapp": "+2348099999999",
+      "email": null,
+      "bio": "Experienced Lagos property consultant."
     }
   ]
 }
