@@ -44,6 +44,17 @@
       "whatsapp": "+2348099999999",
       "email": null,
       "bio": "Experienced Lagos property consultant."
-    }
+    },
+    {
+      "id": "5",
+      "slug": "victor-etim",
+      "name": "Victor Etim",
+      "company": "Greenville",
+      "city": "Lagos",
+      "phone": "+2348012345678",
+      "whatsapp": "+2348012345678",
+      "email": "john@example.com",
+      "bio": "Trusted Lagos real estate agent."
+    },
   ]
 }
