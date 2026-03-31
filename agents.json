@@ -22,6 +22,17 @@
       "whatsapp": "+2348099999999",
       "email": null,
       "bio": "Experienced Abuja property consultant."
+    },
+    {
+      "id": "3",
+      "slug": "mr-kenneth",
+      "name": "Mr Kenneth",
+      "company": "Urban Realty",
+      "city": "Lagos",
+      "phone": null,
+      "whatsapp": "+2348099999999",
+      "email": null,
+      "bio": "Experienced Lagos property consultant."
     }
   ]
 }
